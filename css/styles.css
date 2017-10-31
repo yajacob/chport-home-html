@@ -1,0 +1,158 @@
+@charset "utf-8";
+/* CSS Document */
+<style type="text/css">
+
+body {
+	background-image: url(images/bg.jpg);
+}
+a:link {
+	color: #CC6600;
+	text-decoration: none;
+	font-weight: bold;
+}
+a:visited {
+	color: #cc6600;
+	text-decoration: none;
+	font-weight: bold;
+}
+a:hover {
+	color: #CCCCCC;
+	text-decoration: none;
+}
+a:active {
+	color: cc6600;
+	text-decoration: none;
+	font-weight: bold;
+}
+.style2 {
+	color: #486891;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+}
+.style3 {
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: cc6600;
+	border: thin none #cc6600;
+	background-repeat: no-repeat;
+	background-color: #003366;
+}
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style4 {
+	font-size: 16px;
+	font-style: normal;
+	font-family: Narkisim;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align: center;
+	background-image: url(../images/blue-headerbg.jpg);
+	background-repeat: no-repeat;
+}
+.churchinportland {
+	font-family: "Lucida Handwriting";
+	font-size: 14px;
+	font-weight: bold;
+	color: #003366;
+	font-variant: normal;
+}
+.christian-believers-portland {
+	font-family: Narkisim;
+	font-size: 16px;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #003366;
+	line-height: 15px;
+	background-position: center;
+	text-align: left;
+}
+.style9 {font-size: medium; font-style: italic; font-family: "Times New Roman", Times, serif; }
+
+.church-meeting-times {
+	font-family: Narkisim;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #003366;
+	background-position: left;
+	text-align: left;
+	background-image: url(../images/blue-headerbg.jpg);
+	background-repeat: no-repeat;
+}
+.meetings {
+	font-family: Narkisim;
+	font-size: 16px;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFFFFF;
+	background-position: center;
+	text-align: center;
+}
+.times-border {
+	border: medium double #DCE0E3;
+	color: #003366;
+	background-repeat: no-repeat;
+	background-color: #FCF9F4;
+}
+.leftborder {
+	border-left-width: medium;
+	border-left-style: solid;
+	border-left-color: #648CB0;
+}
+.bottomborder {
+	border: medium double #4C7497;
+}
+.linksborder {
+	border: thin solid #8D9CAF;
+	margin: 8px;
+	padding: 8px;
+}
+.resourcesborder {
+	border: thin solid #B5BAC0;
+}
+
+.style10 {
+	color: #1B4B79;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+body {
+	background-color: #4C7497;
+}
+.style17 {
+	font-size: 16px;
+	color: #FFFFFF;
+	font-family: Narkisim;
+}
+.style18 {
+	color: #FFFFFF;
+	font-family: Narkisim;
+}
+.style10 {
+	color: #1B4B79;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+body {
+	background-color: #4C7497;
+}
+.style17 {
+	font-size: 16px;
+	color: #FFFFFF;
+	font-family: Narkisim;
+}
+.style18 {
+	color: #FFFFFF;
+	font-family: Narkisim;
+}
+
+</style>
+
+
